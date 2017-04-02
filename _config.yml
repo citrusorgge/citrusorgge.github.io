@@ -1,0 +1,15 @@
+url:                https://www.citrus.org.ge 
+baseurl:            https://www.citrus.org.ge
+reading_time:       true
+words_per_minute:   200
+# Jekyll
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Blog
+paginate: 5
+paginate_path: "/blog/page:num/"
+# Google services
+google_analytics: UA-96369919-1
